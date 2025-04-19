@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.ino": "arduino",
+        "cmath": "cpp",
+        "string_view": "cpp"
+    }
+}
