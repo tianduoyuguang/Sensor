@@ -12,9 +12,9 @@
 #define seaLevelPressure_Pa 101325 // 标准大气压
 
 // blinker连接秘钥与wifi名称密码
-char auth[] = "5698b24aa668";
-char ssid[] = "ciaos";
-char pswd[] = "Arimura Hinae";
+char auth[] = "96cec1651255";   
+char ssid[] = "zhangge";          //非本人wifi
+char pswd[] = "zhangge007";
 
 DHT dht(D5, DHT22);
 SGP mySGP30;
